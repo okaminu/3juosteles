@@ -1,0 +1,43 @@
+/*********** FACEBOOK SOCIAL STATS **************/
+.fbshareoutput {
+	font-size:10px;
+}
+
+h3.month_archive {
+	font-family:Georgia,serif;
+	font-size:12px;
+	clear:both;
+	font-style:italic;
+	margin-bottom:10px;
+}
+
+ul.month_archive {
+	list-style-type:none;
+	margin-bottom:40px;
+	font-size:10px;
+}
+
+.the_day {
+	display:inline;
+	float:left;
+	color:#555555;
+	width:80px;
+	height:16px;
+	line-height:16px;
+	text-align:right;
+	padding-right:15px;
+}
+
+.the_article {
+	float:left;
+}
+
+ul.month_archive li {
+	clear:both;
+}
+
+.fbcount {
+	display:inline;
+	width:600px;
+}
+
